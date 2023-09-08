@@ -13,11 +13,9 @@ import Account from './Pages/Account';
 
 
 function App() {
-  
   return (
     <div >
 
-      
     <BrowserRouter>
       
       <Navbar />
